@@ -1,0 +1,2 @@
+Sensor based environment-LifeSupport-Surrounding (air, temperature, velocity, acceleration and orientation under the most demanding conditions. Temperature calibrated accelerometers, gyroscopes, magnetometers and a pressure sensor with an advanced GNSS receiver
+)
